@@ -1,1 +1,1 @@
-# bip
+# Bitfinex Improvement Proposals
